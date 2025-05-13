@@ -1,0 +1,42 @@
+body{
+    background-color: antiquewhite;
+}
+
+ul{
+    background-color: beige;
+    line-height: 2em;
+}
+
+table{
+    text-align: center;
+    align-items: center;
+    border: solid 1px black;
+}
+
+td{
+    border: solid 1px black;
+}
+
+h1{
+    color: blue;
+    text-align: center;
+}
+
+p{
+    font-size: 30px;
+    text-align: left;
+}
+
+img{
+    width: 250px; 
+    height: 150px;
+    border-radius: 25px;
+}
+
+a:hover{
+    color:red;
+}
+
+#divMensagem{
+    display: none;
+}
